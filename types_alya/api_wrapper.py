@@ -4,7 +4,7 @@ from typing import Dict, Union, Optional, List, TypeVar, Generic, Type
 from httpx import AsyncClient    
 from pydantic import BaseModel
             
-from alya_types import objects
+from types_alya import objects
             
 
 # pylint: disable=C0301,C0302

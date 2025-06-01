@@ -17,9 +17,9 @@ Using [ark0f's api parser](https://github.com/ark0f/tg-bot-api).
 ## Using
 
 1. Install
-    ```pip install alya[types]```
+    ```pip install types-alya```
 
 2. Use
     ```python 
-    from alya_types import ApiWrapper, objects
+    from types_alya import ApiWrapper, objects
     ```
